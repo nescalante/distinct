@@ -19,6 +19,6 @@ console.log(arr); // [1, 2, 3, 4]
 
 Thats it!
 
-Keep in mind that `distinct` uses the [`equals`](https://www.npmjs.com/package/equals) package to compare items.
+Keep in mind that `distinct` uses the [`equals`](https://github.com/jkroso/equals) package to compare items.
 
 

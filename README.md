@@ -2,7 +2,7 @@
 
 Because nobody wants repeated things
 
-# Install
+## Install
 
 ```shell
 npm install distinct
@@ -21,4 +21,6 @@ Thats it!
 
 Keep in mind that `distinct` uses the [`equals`](https://github.com/jkroso/equals) package to compare items.
 
+## License
 
+MIT

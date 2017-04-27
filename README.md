@@ -1,5 +1,7 @@
 # distinct()
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/distinct.svg)](https://greenkeeper.io/)
+
 Because nobody wants repeated things
 
 ## Install
